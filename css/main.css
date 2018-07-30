@@ -97,7 +97,7 @@ p {
 }
 
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url({{site.github.url}}/images/shark.jpg);
   background-position: center top;
 }
 .hero-content {
